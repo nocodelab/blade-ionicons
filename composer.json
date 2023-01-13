@@ -1,5 +1,5 @@
 {
-    "name": "faisal50x/blade-ionicons",
+    "name": "nocodelab/blade-ionicons",
     "description": "A package to easily make use of ionicons in your Laravel Blade views.",
     "keywords": [
         "Blade",
@@ -8,7 +8,7 @@
         "ionicons",
         "laravel"
     ],
-    "homepage": "https://github.com/faisal50x/blade-ionicons",
+    "homepage": "https://github.com/nocodelab/blade-ionicons",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -19,8 +19,8 @@
         }
     ],
     "require": {
-        "php": "^7.2|^7.3|^7.4|^8.0",
-        "illuminate/support": "^7.14.0|^8.0",
+        "php": "^7.2|^7.3|^7.4|^8.0|^8.1",
+        "illuminate/support": "^7.14.0|^8.0|^9.0",
         "blade-ui-kit/blade-icons": "^0.4|^0.5|^1.0"
     },
     "require-dev": {
